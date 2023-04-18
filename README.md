@@ -2,4 +2,4 @@
 
 ## Primeros pasos
 
-### Instalacion
+### Instalación
